@@ -6,5 +6,5 @@ to run applet:
                
                javac StopWatch.java
 
-               appletviewer ClassName.java
+               appletviewer StopWatch.java
 
